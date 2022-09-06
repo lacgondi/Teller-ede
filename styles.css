@@ -41,3 +41,19 @@ a{
   color: lightseagreen;
   text-decoration: none;
 }
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+td {
+  margin: 10px;
+  border-bottom: 1px gray;
+  align-self: center;
+}
+
+th {
+  color: white;
+  background-color: gray;
+}
